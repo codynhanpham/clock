@@ -2,8 +2,8 @@
     "name": "Just a Digital Clock",
     "short_name": "DigiClock",
     "description": "A simple digital clock, that's it.",
-    "start_url": "/",
-    "scope": "/",
+    "start_url": "/clock/",
+    "scope": "/clock/",
     "display": "fullscreen",
     "background_color": "#000000",
     "theme_color": "#2a2a2a",
@@ -11,42 +11,42 @@
     "prefer_related_applications": true,
     "icons": [
         {
-            "src": "/media/app-icon/icon_48.png",
+            "src": "/clock/media/app-icon/icon_48.png",
             "type": "image/png", "sizes": "96x96",
             "purpose": "maskable"
         },
         {
-            "src": "/media/app-icon/icon_72.png",
+            "src": "/clock/media/app-icon/icon_72.png",
             "type": "image/png", "sizes": "72x72",
             "purpose": "maskable"
         },
         {
-            "src": "/media/app-icon/icon_96.png",
+            "src": "/clock/media/app-icon/icon_96.png",
             "type": "image/png", "sizes": "96x96",
             "purpose": "maskable"
         },
         {
-            "src": "/media/app-icon/icon_128.png",
+            "src": "/clock/media/app-icon/icon_128.png",
             "type": "image/png","sizes": "128x128",
             "purpose": "maskable"
         },
         {
-            "src": "/media/app-icon/icon_192.png",
+            "src": "/clock/media/app-icon/icon_192.png",
             "type": "image/png", "sizes": "192x192",
             "purpose": "maskable"
         },
         {
-            "src": "/media/app-icon/icon_384.png",
+            "src": "/clock/media/app-icon/icon_384.png",
             "type": "image/png", "sizes": "384x384",
             "purpose": "maskable"
         },
         {
-            "src": "/media/app-icon/icon_512.png",
+            "src": "/clock/media/app-icon/icon_512.png",
             "type": "image/png", "sizes": "512x512",
             "purpose": "maskable"
         },
         {
-            "src": "/media/app-icon/icon_512.png",
+            "src": "/clock/media/app-icon/icon_512.png",
             "type": "image/png", "sizes": "512x512",
             "purpose": "any"
         }
