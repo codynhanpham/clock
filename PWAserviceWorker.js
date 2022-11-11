@@ -1,6 +1,6 @@
 const staticClock = "PWA-Clocksite-v1";
 const assets = [
-    "/clock/",
+    "/",
     "/index.html",
     "/css/clockstyle.css",
     "/js/clockscript.js",
