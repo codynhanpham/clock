@@ -1,9 +1,9 @@
 const staticClock = "PWA-Clocksite-v1";
 const assets = [
-    "/",
-    "/index.html",
-    "/css/clockstyle.css",
-    "/js/clockscript.js",
+    "/clock/",
+    "/clock/index.html",
+    "/clock/css/clockstyle.css",
+    "/clock/js/clockscript.js",
 ]
 
 self.addEventListener("install", installEvent => {

@@ -267,7 +267,7 @@ window.onload = function() {
 if ("serviceWorker" in navigator) {
     window.addEventListener("load", function() {
     navigator.serviceWorker
-        .register("./PWAserviceWorker.js")
+        .register("../PWAserviceWorker.js")
         .then(res => console.log("PWA service worker registered"))
         .catch(err => console.log("PWA service worker not registered", err))
     })
