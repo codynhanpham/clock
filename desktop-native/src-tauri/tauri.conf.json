@@ -28,10 +28,11 @@
         "./icons/icon_96.png",
         "./icons/icon_128.png",
         "./icons/icon_192.png",
+        "./icons/icon_256.png",
         "./icons/icon_384.png",
         "./icons/icon_512.png",
         "./icons/icon_2048.png",
-        "./icons/icon.ico"
+        "./icons/icon_256.ico"
       ]
     },
     "security": {

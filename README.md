@@ -1,7 +1,7 @@
 # A Simple Digital Clock App
 It's literally just a digital clock, in your browser.
 
-### Demo (fictional)
+### Demo (definitely not fictional)
 ![Demo](media/thumbnail_too.png)
 
 ## Controls
