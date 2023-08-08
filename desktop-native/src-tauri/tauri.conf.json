@@ -1,0 +1,50 @@
+{
+  "build": {
+    "beforeDevCommand": "",
+    "beforeBuildCommand": "",
+    "devPath": "../src",
+    "distDir": "../src",
+    "withGlobalTauri": true
+  },
+  "package": {
+    "productName": "Just A Simple Digital Clock",
+    "version": "0.0.0"
+  },
+  "tauri": {
+    "allowlist": {
+      "all": false,
+      "shell": {
+        "all": false,
+        "open": true
+      }
+    },
+    "bundle": {
+      "active": true,
+      "targets": "all",
+      "identifier": "com.tauri.digital-clock",
+      "icon": [
+        "./icons/icon_48.png",
+        "./icons/icon_72.png",
+        "./icons/icon_96.png",
+        "./icons/icon_128.png",
+        "./icons/icon_192.png",
+        "./icons/icon_384.png",
+        "./icons/icon_512.png",
+        "./icons/icon_2048.png",
+        "./icons/icon.ico"
+      ]
+    },
+    "security": {
+      "csp": null
+    },
+    "windows": [
+      {
+        "fullscreen": false,
+        "resizable": true,
+        "title": "Simple Digital Clock",
+        "width": 1000,
+        "height": 480
+      }
+    ]
+  }
+}
